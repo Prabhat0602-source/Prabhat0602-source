@@ -13,6 +13,6 @@ Hey Everyone , I am Prabhat Tiwari currently pursuing B.Tech in Electrical Engin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prabhat0602-source&icon=2&color=3)]
+![](https://visitcount.itsvg.in/api?id=Prabhat0602-source&icon=2&color=3)
 
 
